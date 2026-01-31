@@ -32,9 +32,6 @@ Key Security Features:
 •	Session-based authentication with secure tokens
 •	Input validation and sanitization
 •	Protection against SQL injection using prepared statements
-
-
-
 Rich Text Editor Integration:
 The integration of Quill.js provides users with professional-grade text editing capabilities. This WYSIWYG editor allows users to format blog posts with various styling options including headings, bold and italic text, lists, links, and embedded media. The editor provides a clean interface that seamlessly integrates with the platform's pixel-art aesthetic.
 Editor Capabilities:
@@ -71,10 +68,6 @@ Social Features:
 •	Activity indicators for recent interactions
 Search and Filter Functionality:
 The platform includes comprehensive search and filtering capabilities to help users discover content efficiently. A simple user search feature allows finding specific bloggers by username, while the category-based filtering system enables content discovery by topic. Posts can be sorted by various criteria including publication date and popularity, facilitating efficient content navigation.
-
-
-
-
 
 Search and Filter Options:
 •	User search by username with autocomplete
